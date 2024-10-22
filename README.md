@@ -45,6 +45,8 @@ List of supported countries (code is structured to easily support addition of mo
 
 ## Hosted URL(using render.com hosting services)
 
+If the website hasn't been accessed for a while, it may take a second to spin up but once the first request is through, it will be fast again.
+
 ```url
    https://countrydeliverysystem.onrender.com/{country_code}
 
