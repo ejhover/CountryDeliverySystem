@@ -42,3 +42,9 @@ List of supported countries (code is structured to easily support addition of mo
       "destination": "PAN",
       "list": ["USA", "MEX", "GTM", "HND", "NIC", "CRI", "PAN"]
   }
+
+## Hosted URL(using render.com hosting services)
+
+```url
+   https://countrydeliverysystem.onrender.com/{country_code}
+
